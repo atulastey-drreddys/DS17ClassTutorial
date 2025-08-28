@@ -1,0 +1,11 @@
+.vscode/
+.env
+venv/
+env/
+*.pyc
+*.pyo
+data/
+models/
+checkpoints/
+logs/
+.pytest_cache/
