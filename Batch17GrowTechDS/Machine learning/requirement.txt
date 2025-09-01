@@ -18,3 +18,5 @@ ipython
 transformers
 huggingface_hub
 gtts
+langchain_community
+pypdf
