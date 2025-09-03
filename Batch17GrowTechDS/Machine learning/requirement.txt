@@ -20,3 +20,11 @@ huggingface_hub
 gtts
 langchain_community
 pypdf
+bs4
+google-generativeai
+langchain_google_genai
+chromadb
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+langcain-chroma
